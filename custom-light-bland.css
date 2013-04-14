@@ -39,3 +39,52 @@
 	color: #657b83;
 	}
 
+/* ============================================================ */
+
+/* Colorized */
+.concord-level-1-text{
+	color: #cb4b16 !important;
+	}
+.concord-level-2-text{
+	color: #859900 !important;
+	}
+.concord-level-3-text{
+	color: #268bd2 !important;
+	}
+.concord-level-4-text{
+	color: #b58900 !important;
+	}
+.concord-level-5-text{
+	color: #2aa198 !important;
+	}
+.concord-level-6-text{
+	color: #859900 !important;
+	}
+.concord-level-7-text{
+	color: #dc322f !important;
+	}
+.concord-level-8-text{
+	color: #268bd2 !important;
+	}
+.concord-level-9-text{
+	color: #dc322f !important;
+	}
+/* This section repeats from 2-9 over and over again... truncated at 15 here */
+.concord-level-10-text{
+	color: #859900 !important;
+	}
+.concord-level-11-text{
+	color: #268bd2 !important;
+	}
+.concord-level-12-text{
+	color: #b58900 !important;
+	}
+.concord-level-13-text{
+	color: #2aa198 !important;
+	}
+.concord-level-14-text{
+	color: #859900 !important;
+	}
+.concord-level-15-text{
+	color: #dc322f !important;
+	}
