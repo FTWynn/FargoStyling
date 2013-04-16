@@ -14,4 +14,3 @@ The steps to use are as follows:
 1. Icons are currently not colored, only the text is
 2. The included colorizations only go 15 levels of indentation deep.
 3. When not using the colored lines, highlighting a headline in structure mode turns the text white.
-4. Links still use the default styling

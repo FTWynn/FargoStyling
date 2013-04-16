@@ -38,6 +38,14 @@
 .concord .concord-node.selected > .concord-wrapper.type-icon .node-icon
 { color: #657b83; }
 
+/* Link text (level 4 color and bold)*/
+.concord-text a, .concord-text a:visited
+{ color: #b58900; font-weight: bold; }
+
+/* Selected link text */
+.concord-node.selected > .concord-wrapper .concord-text a, .concord-node.selected > .concord-wrapper .concord-text a:visited
+{ color: #657b83; font-weight: bold; }
+
 /* ============================================================ */
 
 /* Colorized */
