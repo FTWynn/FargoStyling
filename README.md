@@ -1,16 +1,13 @@
-# Solarized Themes for Fargo Outliner
+# Themes for Fargo Outliner
 
-Attached are two CSS files that can be used to emulate emacs' org mode when using the [solarized theme](http://ethanschoonover.com/solarized).
+These are CSS files that can be used to style Dave Winer's outliner, [Fargo](http://fargo.io).
 
-I've included the indent level colorizations in each file, but you can delete that part if you prefer a more monotone outline theme.
+The inital inspiration came from reproducing emacs' org mode when using the [solarized theme](http://ethanschoonover.com/solarized). Others may follow
+
+I've included comments in each file that will hopefully help anyone who wants to tweak them. For example, if you don't like the colors in the Solarized themes, just delete everything after the /* Colorized */ comment.
 
 The steps to use are as follows:
 
 1. Download/Open the css file of your chosen theme.
 2. Copy and paste into the CSS portion of the Fargo settings.
-3. Delete the indent-level color styling if you want.
-
-## Issues that might be fixed one day
-1. Icons are currently not colored, only the text is
-2. The included colorizations only go 15 levels of indentation deep.
-3. When not using the colored lines, highlighting a headline in structure mode turns the text white.
+3. Delete/change any particulars as preferred.
