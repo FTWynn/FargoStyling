@@ -15,23 +15,23 @@
 { background-color: #eee8d5; }
 
 /* Wedge with children when not selected */
-.concord .concord-node.collapsed > .concord-wrapper.type-icon .node-icon.icon-caret-right
+.concord .concord-node.collapsed > .concord-wrapper.type-icon .node-icon
 { color: #657b83; }
 
 /* Wedge with children when selected */
-.concord .concord-node.selected.collapsed > .concord-wrapper.type-icon .node-icon.icon-caret-right
+.concord .concord-node.selected.collapsed > .concord-wrapper.type-icon .node-icon
 { color: #657b83; }
 
 /* Wedge without children when selected */
-.concord .concord-node.selected > .concord-wrapper.type-icon .node-icon.icon-caret-right
+.concord .concord-node.selected > .concord-wrapper.type-icon .node-icon
 { color: #93a1a1; }
 
 /* Wedge without children when not selected */
-.concord .concord-node > .concord-wrapper.type-icon .node-icon.icon-caret-right
+.concord .concord-node > .concord-wrapper.type-icon .node-icon
 { color: #93a1a1; }
 
 /* Styling the expanded wedges */
-.concord-node:not(.collapsed) > .concord-wrapper.type-icon > .node-icon.icon-caret-right {
+.concord-node:not(.collapsed) > .concord-wrapper.type-icon > .node-icon {
 	transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
 	-webkit-transform: rotate(90deg);
